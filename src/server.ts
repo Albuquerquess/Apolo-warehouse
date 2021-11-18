@@ -1,6 +1,5 @@
 import express from "express";
-import './Config/dotenv'
-import connection from './Knex'
+import './Config/Dotenv'
 
 const app = express(); // Criamos uma instância do express
 
